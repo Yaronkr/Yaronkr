@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaron (Ron) Kraushar</h1>
 <h3 align="center">Background as Mechanical engineer. Recently I decided to elevate my passion for codding and do a career change into Software developing</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaronkr" alt="yaronkr" /></a> </p>
-
 - 🔭 Building a Childcare search engine web application [BaybeMe](www.baybe-me.me)
 - 
 - 🔭 Building a scale model of a climate Controlled Greenhouse [climate Controlled Greenhouse]([www.baybe-me.me](https://youtu.be/giVSa8YNtKU))
