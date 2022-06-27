@@ -9,8 +9,10 @@
 
 - 📝 I regularly write articles on [https://github.com/Yaronkr](https://github.com/Yaronkr)
 
-- 📫 How to reach me **ron.kra@outlook.com** [My Card](https://yaron-business-card.herokuapp.com/)
-
+- 📫 How to reach me **ron.kra@outlook.com** **Or** 
+      - [Business Card](https://yaron-business-card.herokuapp.com/)
+      - [My projects Page](https://troopl.com/portfolios/projects)
+      
 - ⚡ Fun fact **I like scuba diving, and have more than 300 dives.**
 
 <h3 align="left">Connect with me:</h3>
