@@ -1,4 +1,4 @@
-<h1 align="center">Hi Yaron Kraushar Software Developer</h1>
+<h1 align="center">Yaron Kraushar Software Developer</h1>
 <p align="left">
 I am a dynamic and results-driven software developer who is motivated to learn and work outside my comfort zone to further develop my skills and capabilities. My background is in mechanical engineering, where I focused on multidisciplinary product development and design for manufacturing.
 
