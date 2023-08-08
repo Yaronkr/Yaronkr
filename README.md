@@ -1,19 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yaron (Ron) Kraushar</h1>
-<h3 align="center">Background as Mechanical engineer. Recently I decided to elevate my passion for codding and do a career change into Software developing</h3>
+<h1 align="center">Hi Yaron Kraushar Software Developer</h1>
+<h3 align="center">I am a dynamic and results-driven software developer who is motivated to learn and work outside my comfort zone to further develop my skills and capabilities. My background is in mechanical engineering, where I focused on multidisciplinary product development and design for manufacturing.
 
-- 🔭 Building a Childcare search engine web application [BaybeMe](www.baybe-me.me)
+For many years, coding has been my hobby. I have built simple gadgets using microcontrollers and various components. Recently, I made the decision to turn my passion for coding into a career and completed a full-time web development bootcamp. I am now looking for a challenging position to kickstart my career and continue building my skills</h3>
 
-- 🔭 Building a scale model of a climate Controlled Greenhouse [climate Controlled Greenhouse](https://youtu.be/giVSa8YNtKU)
-
-- 🌱 I’m currently learning **React, java**
-
-- 📝 I regularly write articles on [https://github.com/Yaronkr](https://github.com/Yaronkr)
-
-- 📫 How to reach me **ron.kra@outlook.com** **Or** 
-      - [Business Card](https://yaron-business-card.herokuapp.com/)
-      - [My projects Page](https://troopl.com/portfolios/projects)
-      
-- ⚡ Fun fact **I like scuba diving, and have more than 300 dives.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
