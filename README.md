@@ -1,8 +1,8 @@
 <h1 align="center">Hi Yaron Kraushar Software Developer</h1>
-<h3 align="left">
+<p align="left">
 I am a dynamic and results-driven software developer who is motivated to learn and work outside my comfort zone to further develop my skills and capabilities. My background is in mechanical engineering, where I focused on multidisciplinary product development and design for manufacturing.
 
-For many years, coding has been my hobby. I have built simple gadgets using microcontrollers and various components. Recently, I made the decision to turn my passion for coding into a career and completed a full-time web development bootcamp. I am now looking for a challenging position to kickstart my career and continue building my skills</h3>
+For many years, coding has been my hobby. I have built simple gadgets using microcontrollers and various components. Recently, I made the decision to turn my passion for coding into a career and completed a full-time web development bootcamp. I am now looking for a challenging position to kickstart my career and continue building my skills</p>
 
 
 <h3 align="left">Connect with me:</h3>
