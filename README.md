@@ -7,7 +7,7 @@ For many years, coding has been my hobby. I have built simple gadgets using micr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ronkrausha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ronkrausha" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ronkra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ronkrausha" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC_5OZECLeKBqoBqXG9kShbA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/givsa8yntku" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yaron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yaron" height="30" width="40" /></a>
 </p>
