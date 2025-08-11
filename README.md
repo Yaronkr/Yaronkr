@@ -1,50 +1,8 @@
 <h1 align="center">Yaron Kraushar – Software Engineer | Web, Mobile & AI Solutions</h1>
 
 <p align="left">
-I design and deliver scalable, production-ready applications—from MVP to enterprise-grade platforms.  
-My experience spans **web, mobile, AI-powered SaaS, and automation agents**, with a strong focus on clean architecture, performance, and maintainability.  
-I’ve led teams, managed full project lifecycles, and built products that solve real problems for users.  
-With a background in mechanical engineering, I bring a problem-solving mindset, attention to detail, and a passion for turning ideas into reality.
+I’m a software developer with experience building scalable web and mobile applications, from MVPs to production-ready platforms. My work spans full-stack development, cloud infrastructure, AI-powered SaaS products, and clean, maintainable code. With a background in mechanical engineering, I bring a strong problem-solving mindset and a focus on delivering reliable, user-centred solutions.
 </p>
-
----
-
-<h3 align="left">Core Expertise</h3>
-
-- **Full Project Ownership** – from roadmap & milestones to deployment & ongoing optimisation.  
-- **Clean, Scalable Code** – architecture-first approach, automated testing, and maintainable patterns.  
-- **Client-First Development** – you own all repos, accounts, and infrastructure.  
-- **Weekly Progress Demos** – no surprises; real progress every sprint.
-
----
-
-<h3 align="left">AI & Automation</h3>
-
-- Built and launched **AI SaaS platform** (Jimple) using Google Cloud, Vertex AI, Cloud Functions, and Firestore.  
-- Designed and deployed **LLM-powered agents**, speech-to-text pipelines, and automated data extraction.  
-- Integrated **privacy-first de-identification** and compliance-focused data workflows.  
-- Developed **event-driven microservices** (Node.js/Python) with cost control and observability.
-
----
-
-<h3 align="left">Mobile Development – Flutter</h3>
-
-- Many years building **production-ready** iOS & Android apps using Flutter & Dart.  
-- Expertise in **clean architecture** (BLoC / Provider) and modern state management.  
-- Implemented **OAuth2, in-app purchases, push notifications, Stripe, Firebase, Supabase**.  
-- Published multiple apps to **App Store** & **Google Play** – happy to share links in private.  
-- CI/CD with **Codemagic & GitHub Actions** for rapid, reliable releases.
-
----
-
-<h3 align="left">Web Development</h3>
-
-- Scalable web apps using **Next.js, Node.js, React, Ruby on Rails**.  
-- Strong frontend skills: **HTML, CSS, JavaScript, Bootstrap, Figma integration**.  
-- Backend & API development with **REST, GraphQL, PostgreSQL, MongoDB, Firestore**.  
-- Experienced in **security best practices** and **access control**.
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
